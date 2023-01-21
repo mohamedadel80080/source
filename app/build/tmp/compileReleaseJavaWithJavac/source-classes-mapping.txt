@@ -1,0 +1,8 @@
+io/firsteasy/letswish/twa/Application.java
+ io.firsteasy.letswish.twa.Application
+io/firsteasy/letswish/twa/LauncherActivity.java
+ io.firsteasy.letswish.twa.LauncherActivity
+io/firsteasy/letswish/twa/BuildConfig.java
+ io.firsteasy.letswish.twa.BuildConfig
+io/firsteasy/letswish/twa/DelegationService.java
+ io.firsteasy.letswish.twa.DelegationService

@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.firsteasy.letswish.twa",
+                     "sha256_cert_fingerprints": ["0C:67:DB:F9:5C:A8:6D:0F:F8:B4:CF:AA:00:4D:4E:D6:07:CA:F0:0E:B2:D7:35:B7:9A:6F:60:C9:1A:64:3D:C0"] }
+      }
+]
